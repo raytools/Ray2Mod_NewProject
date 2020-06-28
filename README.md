@@ -1,7 +1,9 @@
 # Ray2Mod_NewProject
 Boilerplate project to quickly get started with Ray2Mod
 
-You can download this repository as a template under the releases page.
+You can download this repository as a template under the releases page, and add it to Visual Studio by copying the ZIP file to the folder:
+
+``C:\Users\[User Name]\Documents\Visual Studio 20xx\Templates\Project Templates``
 
 To begin modding Rayman 2, you have to add Ray2Mod.dll as a reference to this project:
  1. Right click References in the Solution Explorer
